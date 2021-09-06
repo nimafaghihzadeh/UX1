@@ -1,0 +1,29 @@
+
+/* NAVBAR */
+.navbar{
+    background-color: #262626b8;
+}
+
+/* HERO SECTION */
+#hero-section{
+    height: 100vh;
+    width: 100%;
+    background: url(../img/4.jpg);
+    background-position: center;
+    background-size: cover;
+}
+#hero-section h1{
+    background-color: #26262676;
+}
+#hero-section .hero-btn{
+    transition: letter-spacing 0.5s ease;
+}
+#hero-section .hero-btn:hover{
+    letter-spacing: 2px;
+}
+#hero-section .signUp-span span{
+    background-color: #26262676;
+}
+#hero-section .signUp-span span a{
+    color: #fbfbfb;
+}
